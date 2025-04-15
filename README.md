@@ -1,0 +1,2 @@
+# GROUP-6-DATA-ANALYST-PRESENTATION
+Sentiment Analysis of Nigeria’s Economic News (2021–Present) GROUP 6 DATA ANALYST PRESENTATION
